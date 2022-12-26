@@ -1,2 +1,4 @@
 # Image-classification-Project-
-CNN (deep learning)
+
+Convolution Neural Network
+
